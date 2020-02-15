@@ -122,5 +122,4 @@ outlier, PointO = Evaluation_Stage(data)
 print(PointO)
 
 # test github
-# con me no
-# dit 
+# co y de conflig
