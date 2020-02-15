@@ -121,6 +121,3 @@ data = data.iloc[:].values
 outlier, PointO = Evaluation_Stage(data)
 print(PointO)
 
-# test github
-# con me no
-# test tiep xem the nao
