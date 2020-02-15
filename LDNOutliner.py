@@ -120,4 +120,3 @@ data = data.iloc[:].values
 
 outlier, PointO = Evaluation_Stage(data)
 print(PointO)
-
